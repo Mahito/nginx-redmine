@@ -1,6 +1,6 @@
 # nginx-redmine
 
-＃＃ How to run
+## How to run
 
 ```
 $ docker-compose up 
